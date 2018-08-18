@@ -15,7 +15,7 @@ body {
 }
 
 .nav a {
-    font-size: 20px;
+    font-size: 22px;
 }
 
 #map {
@@ -94,5 +94,4 @@ html {
 
 body {
     margin: 0 0 100px;
-    /* bottom = footer height */
 }
